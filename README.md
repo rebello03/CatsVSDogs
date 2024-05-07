@@ -1,5 +1,7 @@
 # Cats VS Dogs Classification
 
+![Cats vs Dogs](https://github.com/rebello03/CatsVSDogs/blob/main/dogandcat.jpeg)
+
 ## Dataset
 The dataset used for this project is the "Dogs vs Cats" dataset, downloaded from Kaggle. It consists of thousands of images of cats and dogs for training and testing the CNN model.
 
